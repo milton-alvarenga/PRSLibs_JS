@@ -1,6 +1,6 @@
 import * as Filter from './Filter';
 
-/* jasmine specs for services go here */
+/* jasmine or jest specs for services go here */
 describe('Filter', function() {
 
     describe('capitalize',function(){
